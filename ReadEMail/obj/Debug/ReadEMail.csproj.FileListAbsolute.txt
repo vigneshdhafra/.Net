@@ -1,0 +1,14 @@
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\ReadEMail.exe.config
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\ReadEMail.exe
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\ReadEMail.pdb
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.csprojResolveAssemblyReference.cache
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.csproj.ResolveComReference.cache
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.Properties.Resources.resources
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.csproj.GenerateResource.Cache
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.exe
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.pdb
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\EntityFramework.dll
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\EntityFramework.SqlServer.dll
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\EntityFramework.xml
+D:\Interview\ReadEMail\ReadEMail\bin\Debug\EntityFramework.SqlServer.xml
+D:\Interview\ReadEMail\ReadEMail\obj\Debug\ReadEMail.frmEmailReader.resources
